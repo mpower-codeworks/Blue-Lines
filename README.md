@@ -12,3 +12,13 @@ using near-black surfaces and vivid blue borders.-->
 - Selection:          `#324A76`
 - Scrollbar:          `#19253B`
 ```
+<table>
+    <tr>
+        <td align="left" width="50%" valign="top">
+            <img src="images/screen1.png" width="100%" alt="screen1"><br>
+        </td>
+        <td align="left" width="50%" valign="top">
+            <img src="images/screen2" width="100%" alt="screen2"><br>
+        </td>
+    </tr>
+</table>
