@@ -14,11 +14,11 @@ Its syntax colors are based on VS Code's built-in
 <br><br>
 
 ```
-- Background:         `#040408`
-- Accent and borders: `#6495ED`
-- Interface text:     `#C8C8C8`
-- Selection:          `#324A76`
-- Scrollbar:          `#19253B`
+- Background:         #040408
+- Accent and borders: #6495ED
+- Interface text:     #C8C8C8
+- Selection:          #324A76
+- Scrollbar:          #19253B
 ```
 <table>
     <tr>
