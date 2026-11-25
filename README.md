@@ -23,6 +23,14 @@ Its syntax colors are based on VS Code's built-in
 <table>
     <tr>
         <td align="left" width="50%" valign="top">
+            <img src="images/screen3.png" width="100%" alt="screen3"><br>
+        </td>
+        <td align="left" width="50%" valign="top">
+            <img src="images/screen4.png" width="100%" alt="screen4"><br>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" width="50%" valign="top">
             <img src="images/screen1.png" width="100%" alt="screen1"><br>
         </td>
         <td align="left" width="50%" valign="top">
