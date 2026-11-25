@@ -5,6 +5,14 @@ using near-black surfaces and vivid blue borders.-->
 𝗎𝗌𝗂𝗇𝗀 𝗇𝖾𝖺𝗋-𝖻𝗅𝖺𝖼𝗄 𝗌𝗎𝗋𝖿𝖺𝖼𝖾𝗌 𝖺𝗇𝖽 𝗏𝗂𝗏𝗂𝖽 𝖻𝗅𝗎𝖾 𝖻𝗈𝗋𝖽𝖾𝗋𝗌.
 <br><br>
 
+<!--
+Its syntax colors are based on VS Code's built-in
+**Default High Contrast** theme.
+-->
+𝖨𝗍𝗌 𝗌𝗒𝗇𝗍𝖺𝗑 𝖼𝗈𝗅𝗈𝗋𝗌 𝖺𝗋𝖾 𝖻𝖺𝗌𝖾𝖽 𝗈𝗇 𝖵𝖲 𝖢𝗈𝖽𝖾'𝗌 𝖻𝗎𝗂𝗅𝗍-𝗂𝗇
+𝖣𝖾𝖿𝖺𝗎𝗅𝗍 𝖧𝗂𝗀𝗁 𝖢𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝗍𝗁𝖾𝗆𝖾.
+<br><br>
+
 ```
 - Background:         `#040408`
 - Accent and borders: `#6495ED`
